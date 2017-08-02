@@ -9,4 +9,5 @@ You can just simply run: `ng serve`
 ## The two components are in:
 
 src/app/first
+
 src/app/second
