@@ -6,3 +6,7 @@ Then if you have this angular client installed: https://github.com/angular/angul
 
 You can just simply run: `ng serve`
 
+## The two components are in:
+
+src/app/first
+src/app/second
